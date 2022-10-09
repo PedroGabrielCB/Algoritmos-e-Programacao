@@ -1,3 +1,7 @@
+# URL do enunciado
+
+# https://www.beecrowd.com.br/judge/pt/problems/view/1021
+
 valor = float(input())
 
 notas = [100, 50, 20, 10, 5, 2]

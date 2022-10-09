@@ -1,3 +1,6 @@
+# URL do enunciado
+
+# https://www.beecrowd.com.br/judge/pt/problems/view/1019
 
 tempo = int(input())
 
