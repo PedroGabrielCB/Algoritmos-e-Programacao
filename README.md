@@ -16,7 +16,7 @@
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Phyton 3 ou Phyton 3.6
+* Possuir o Phyton 3 ou Phyton 3.6 na máquina
 * Você tem uma máquina `<Windows / Linux >`.
 
 
@@ -26,6 +26,23 @@ Neste repositório contém  listas dos exercícios que estão separados por dire
 
 ```
 git clone https://github.com/PedroGabrielCB/Algoritmos-e-Programacao.git
+```
+
+Após isso, basta apenas executar pelo próprio Prompt de Comando (CMD), o seguinte comando no formato:
+
+```
+phyton <Nome_Colaborador>/<Nome_Diretorio>/<Nome_Script_PY>
+```
+Exemplo:
+
+```
+phyton Pedro Gabriel Sousa/Lista de exercicios 1/1000.py
+```
+
+ou apenas executar de dentro do próprio diretório onde os scripts estão:
+
+```
+phyton 1000.py
 ```
 
 ## 🤝 Colaborador
